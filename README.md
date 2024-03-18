@@ -51,3 +51,6 @@ services:
 
 ```
 
+``` step2 ``` config file mosquotto.pw, mosquitto.conf ,telegraf.conf for your data
+``` step3``` run command in teminal for start dockerfile
+``` docker-compose up -d ```
