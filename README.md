@@ -54,4 +54,4 @@ services:
 ``` step2 ``` config file mosquotto.pw, mosquitto.conf ,telegraf.conf for your data
 ``` step3``` run command in teminal for start dockerfile
 ``` docker-compose up -d ``` or ```docker-compose down ``` for stop container
-```step4``` create aws Ec2 
+```step4``` create aws Ec2   ``https://www.techtarget.com/searchcloudcomputing/tutorial/How-to-create-an-EC2-instance-from-AWS-Console``
